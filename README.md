@@ -1,8 +1,8 @@
 # Hi, I'm Anupama AV 👋
 
-**Customer Experience · Operations · Virtual Assistance · AI Enthusiast**
+**Customer Experience · Administration & Operations · Virtual Assistance · Remote Work · AI Enthusiast**
 
-22+ years of turning complex processes into smooth, human experiences — across education, hospitality, and international project environments. Now channeling that into AI-powered workflows and virtual assistance.
+Delivering exceptional client and operational experiences across education, hospitality, and international projects for over two decades. Now channeling that into AI-powered workflows and virtual assistance.
 
 ---
 
@@ -14,11 +14,20 @@
 ---
 
 ### 🛠️ What I do
-- 🤝 Client Relationship Management
-- 🖥️ Virtual Assistance & Remote Operations
-- 🏢 Office & Operations Management
-- 🤖 AI-Powered Workflows
-- ✍️ Content Writing & Personal Branding
+- 🤝 **Client Relationship Management**
+  Building lasting client connections, managing follow-ups, and ensuring every interaction feels personal and professional
+- 🖥️ **Virtual Assistance & Remote Operations**
+  Handling end-to-end remote assistance including email management, scheduling, task coordination, and day-to-day administrative support
+- 📅 **Calendar & Schedule Management**
+  Managing complex calendars, coordinating meetings across time zones, scheduling appointments, and keeping priorities organised and on track
+- 🗂️ **CRM Tools & Data Management**
+  Maintaining accurate client records, tracking interactions, managing pipelines, and ensuring no follow-up ever falls through the cracks
+- 🏢 **Office & Operations Management**
+  Managing day-to-day office operations including documentation, vendor coordination, and keeping things running on time and on budget
+- 🤖 **AI-Powered Workflows**
+  Using AI tools to handle repetitive tasks, improve productivity, and deliver faster, better support
+- ✍️ **Content Writing & Personal Branding**
+  Writing clear, engaging content for professional communication, social media, and brand storytelling
 
 ---
 
