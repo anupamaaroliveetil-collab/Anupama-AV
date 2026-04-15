@@ -35,5 +35,4 @@
 ---
 
 ### 📬 Let's connect
-- 📧 anupama.etr@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/anupama-vijayan-32781049)
+- 📧 [LinkedIn](https://linkedin.com/in/anupama-vijayan-32781049)
