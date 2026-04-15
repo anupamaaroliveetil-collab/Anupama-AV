@@ -14,19 +14,19 @@ Delivering exceptional client and operational experiences across education, hosp
 ---
 
 ### 🛠️ What I do
-- 🤝 **Client Relationship Management**
+- 🤝 **Client Relationship Management: **
   Building lasting client connections, managing follow-ups, and ensuring every interaction feels personal and professional
-- 🖥️ **Virtual Assistance & Remote Operations**
+- 🖥️ **Virtual Assistance & Remote Operations: **
   Handling end-to-end remote assistance including email management, scheduling, task coordination, and day-to-day administrative support
-- 📅 **Calendar & Schedule Management**
+- 📅 **Calendar & Schedule Management:**
   Managing complex calendars, coordinating meetings across time zones, scheduling appointments, and keeping priorities organised and on track
-- 🗂️ **CRM Tools & Data Management**
+- 🗂️ **CRM Tools & Data Management: **
   Maintaining accurate client records, tracking interactions, managing pipelines, and ensuring no follow-up ever falls through the cracks
-- 🏢 **Office & Operations Management**
+- 🏢 **Office & Operations Management: **
   Managing day-to-day office operations including documentation, vendor coordination, and keeping things running on time and on budget
 - 🤖 **AI-Powered Workflows**
   Using AI tools to handle repetitive tasks, improve productivity, and deliver faster, better support
-- ✍️ **Content Writing & Personal Branding**
+- ✍️ **Content Writing & Personal Branding: **
   Writing clear, engaging content for professional communication, social media, and brand storytelling
 
 ---
