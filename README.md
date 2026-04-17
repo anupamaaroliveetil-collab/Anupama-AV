@@ -9,7 +9,7 @@ Delivering exceptional client and operational experiences across education, hosp
 ### 📊 At a glance
 | 22+ Years Experience |Customer Support, Admin, Office Management & Team Lead | 3 Languages |
 |---|---|---|
-| | Bengaluru, India | Open to freelance & remote |English · Hindi · Malayalam 
+| Bengaluru, India | Open to freelance & remote | English · Hindi · Malayalam 
 
 ---
 
