@@ -7,7 +7,7 @@ Delivering exceptional client and operational experiences across education, hosp
 ---
 
 ### 📊 At a glance
-| 22+ Years Experience | 100+ Candidates Placed | 3 Languages |
+| 22+ Years Experience | 10+ Years Across Support, Office Management & Team Lead | 3 Languages |
 |---|---|---|
 | English · Hindi · Malayalam | Bengaluru, India | Open to freelance & remote |
 
